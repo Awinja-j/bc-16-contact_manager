@@ -1,0 +1,12 @@
+appdirs==1.4.3
+colorama==0.3.7
+docopt==0.6.2
+httplib2==0.10.3
+packaging==16.8
+pyfiglet==0.7.5
+pyparsing==2.2.0
+pytz==2016.10
+six==1.10.0
+SQLAlchemy==1.1.6
+termcolor==1.1.0
+twilio==5.7.0
